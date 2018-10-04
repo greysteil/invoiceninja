@@ -392,16 +392,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.52.23",
+            "version": "3.68.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "3ce95b96c217a699168d937c4ed700e6a27ec783"
+                "reference": "2986beb07a14bcde94608e940ee7e5cba1ed4e38"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/3ce95b96c217a699168d937c4ed700e6a27ec783",
-                "reference": "3ce95b96c217a699168d937c4ed700e6a27ec783",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/2986beb07a14bcde94608e940ee7e5cba1ed4e38",
+                "reference": "2986beb07a14bcde94608e940ee7e5cba1ed4e38",
                 "shasum": ""
             },
             "require": {
@@ -468,7 +468,7 @@
                 "s3",
                 "sdk"
             ],
-            "time": "2018-03-08T22:51:35+00:00"
+            "time": "2018-10-02T21:11:29+00:00"
         },
         {
             "name": "bacon/bacon-qr-code",
@@ -2636,10 +2636,11 @@
             "dist": {
                 "type": "zip",
                 "url": "https://github.com/gatepay/FedACHdir/archive/master.zip",
-                "reference": "origin/master",
+                "reference": null,
                 "shasum": null
             },
-            "type": "library"
+            "type": "library",
+            "time": "2017-12-08T12:01:09+00:00"
         },
         {
             "name": "gocardless/gocardless-pro",
@@ -2698,12 +2699,12 @@
             "version": "v2.2.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/google/google-api-php-client.git",
+                "url": "https://github.com/googleapis/google-api-php-client.git",
                 "reference": "b69b8ac4bf6501793c389d4e013a79d09c85c5f2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/google/google-api-php-client/zipball/b69b8ac4bf6501793c389d4e013a79d09c85c5f2",
+                "url": "https://api.github.com/repos/googleapis/google-api-php-client/zipball/b69b8ac4bf6501793c389d4e013a79d09c85c5f2",
                 "reference": "b69b8ac4bf6501793c389d4e013a79d09c85c5f2",
                 "shasum": ""
             },
@@ -2757,12 +2758,12 @@
             "version": "v0.49",
             "source": {
                 "type": "git",
-                "url": "https://github.com/google/google-api-php-client-services.git",
+                "url": "https://github.com/googleapis/google-api-php-client-services.git",
                 "reference": "7552d7d1bb92e933fc93088014c8c2555c0feab6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/google/google-api-php-client-services/zipball/7552d7d1bb92e933fc93088014c8c2555c0feab6",
+                "url": "https://api.github.com/repos/googleapis/google-api-php-client-services/zipball/7552d7d1bb92e933fc93088014c8c2555c0feab6",
                 "reference": "7552d7d1bb92e933fc93088014c8c2555c0feab6",
                 "shasum": ""
             },
@@ -2794,12 +2795,12 @@
             "version": "v1.2.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/google/google-auth-library-php.git",
+                "url": "https://github.com/googleapis/google-auth-library-php.git",
                 "reference": "da0062d279c9459350808a4fb63dbc08b90d6b90"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/google/google-auth-library-php/zipball/da0062d279c9459350808a4fb63dbc08b90d6b90",
+                "url": "https://api.github.com/repos/googleapis/google-auth-library-php/zipball/da0062d279c9459350808a4fb63dbc08b90d6b90",
                 "reference": "da0062d279c9459350808a4fb63dbc08b90d6b90",
                 "shasum": ""
             },
@@ -2841,12 +2842,12 @@
             "version": "v0.56.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/GoogleCloudPlatform/google-cloud-php.git",
+                "url": "https://github.com/googleapis/google-cloud-php.git",
                 "reference": "7136c7e12596a3461840cac916937e24462b2ad1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/GoogleCloudPlatform/google-cloud-php/zipball/7136c7e12596a3461840cac916937e24462b2ad1",
+                "url": "https://api.github.com/repos/googleapis/google-cloud-php/zipball/7136c7e12596a3461840cac916937e24462b2ad1",
                 "reference": "7136c7e12596a3461840cac916937e24462b2ad1",
                 "shasum": ""
             },
@@ -4531,28 +4532,28 @@
         },
         {
             "name": "league/flysystem",
-            "version": "1.0.43",
+            "version": "1.0.47",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/flysystem.git",
-                "reference": "1ce7cc142d906ba58dc54c82915d355a9191c8a8"
+                "reference": "a11e4a75f256bdacf99d20780ce42d3b8272975c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/1ce7cc142d906ba58dc54c82915d355a9191c8a8",
-                "reference": "1ce7cc142d906ba58dc54c82915d355a9191c8a8",
+                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/a11e4a75f256bdacf99d20780ce42d3b8272975c",
+                "reference": "a11e4a75f256bdacf99d20780ce42d3b8272975c",
                 "shasum": ""
             },
             "require": {
+                "ext-fileinfo": "*",
                 "php": ">=5.5.9"
             },
             "conflict": {
                 "league/flysystem-sftp": "<1.0.6"
             },
             "require-dev": {
-                "ext-fileinfo": "*",
                 "phpspec/phpspec": "^3.4",
-                "phpunit/phpunit": "^5.7"
+                "phpunit/phpunit": "^5.7.10"
             },
             "suggest": {
                 "ext-fileinfo": "Required for MimeType",
@@ -4611,20 +4612,20 @@
                 "sftp",
                 "storage"
             ],
-            "time": "2018-03-01T10:27:04+00:00"
+            "time": "2018-09-14T15:30:29+00:00"
         },
         {
             "name": "league/flysystem-aws-s3-v3",
-            "version": "1.0.18",
+            "version": "1.0.20",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/flysystem-aws-s3-v3.git",
-                "reference": "dc09b19f455750663b922ed52dcc0ff215bed284"
+                "reference": "398c56027e49653712a8fba1eb12600d2a83f3b7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/flysystem-aws-s3-v3/zipball/dc09b19f455750663b922ed52dcc0ff215bed284",
-                "reference": "dc09b19f455750663b922ed52dcc0ff215bed284",
+                "url": "https://api.github.com/repos/thephpleague/flysystem-aws-s3-v3/zipball/398c56027e49653712a8fba1eb12600d2a83f3b7",
+                "reference": "398c56027e49653712a8fba1eb12600d2a83f3b7",
                 "shasum": ""
             },
             "require": {
@@ -4658,7 +4659,7 @@
                 }
             ],
             "description": "Flysystem adapter for the AWS S3 SDK v3.x",
-            "time": "2017-06-30T06:29:25+00:00"
+            "time": "2018-09-25T12:02:44+00:00"
         },
         {
             "name": "league/flysystem-rackspace",
@@ -5678,12 +5679,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/omnipay-2checkout.git",
-                "reference": "b27d2823d052f5c227eeb29324bb564cfdb8f9af"
+                "reference": "453414730302ccd291930b567075fddead121102"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/omnipay-2checkout/zipball/b27d2823d052f5c227eeb29324bb564cfdb8f9af",
-                "reference": "b27d2823d052f5c227eeb29324bb564cfdb8f9af",
+                "url": "https://api.github.com/repos/thephpleague/omnipay-2checkout/zipball/453414730302ccd291930b567075fddead121102",
+                "reference": "453414730302ccd291930b567075fddead121102",
                 "shasum": ""
             },
             "require": {
@@ -5729,7 +5730,7 @@
                 "payment",
                 "twocheckout"
             ],
-            "time": "2016-03-25T10:39:58+00:00"
+            "time": "2018-05-14T08:33:28+00:00"
         },
         {
             "name": "omnipay/authorizenet",
@@ -6760,17 +6761,6 @@
         {
             "name": "omnipay/omnipay",
             "version": "2.3.x-dev",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/thephpleague/omnipay.git",
-                "reference": "cc04bd22b4149c94c52b002181d4993e4f8fe812"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/omnipay/zipball/cc04bd22b4149c94c52b002181d4993e4f8fe812",
-                "reference": "cc04bd22b4149c94c52b002181d4993e4f8fe812",
-                "shasum": ""
-            },
             "require": {
                 "omnipay/2checkout": "~2.0",
                 "omnipay/authorizenet": "~2.0",
@@ -6908,6 +6898,7 @@
                 "twocheckout",
                 "worldpay"
             ],
+            "abandoned": "league/omnipay",
             "time": "2017-03-21T09:24:49+00:00"
         },
         {
@@ -8439,17 +8430,6 @@
         {
             "name": "roave/security-advisories",
             "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "664836e89c7ecad3dbaabc1572ea752c0d532d80"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/664836e89c7ecad3dbaabc1572ea752c0d532d80",
-                "reference": "664836e89c7ecad3dbaabc1572ea752c0d532d80",
-                "shasum": ""
-            },
             "conflict": {
                 "3f/pygmentize": "<1.2",
                 "adodb/adodb-php": "<5.20.6",
@@ -8761,12 +8741,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/simshaun/recurr.git",
-                "reference": "bff55c3baa5ab905c8f49c325daa6e9fcfccbfc1"
+                "reference": "f729bfd715f4fdf2fc2d8f400e89c9753e479c7c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simshaun/recurr/zipball/bff55c3baa5ab905c8f49c325daa6e9fcfccbfc1",
-                "reference": "bff55c3baa5ab905c8f49c325daa6e9fcfccbfc1",
+                "url": "https://api.github.com/repos/simshaun/recurr/zipball/f729bfd715f4fdf2fc2d8f400e89c9753e479c7c",
+                "reference": "f729bfd715f4fdf2fc2d8f400e89c9753e479c7c",
                 "shasum": ""
             },
             "require": {
@@ -8808,7 +8788,7 @@
                 "recurring",
                 "rrule"
             ],
-            "time": "2018-01-17T18:53:01+00:00"
+            "time": "2018-09-19T05:26:21+00:00"
         },
         {
             "name": "sly/notification-pusher",
@@ -10622,16 +10602,6 @@
                 "php": ">=5.3.0"
             },
             "type": "library",
-            "extra": {
-                "laravel": {
-                    "providers": [
-                        "Webpatser\\Countries\\CountriesServiceProvider"
-                    ],
-                    "aliases": {
-                        "Countries": "Webpatser\\Countries\\CountriesFacade"
-                    }
-                }
-            },
             "autoload": {
                 "psr-0": {
                     "Webpatser\\Countries": "src/"
@@ -10664,7 +10634,7 @@
                 "iso_3166_3",
                 "laravel"
             ],
-            "time": "2017-10-15T11:08:15+00:00"
+            "time": "2018-06-27T11:58:05+00:00"
         },
         {
             "name": "websight/l5-google-cloud-storage",
@@ -11912,8 +11882,7 @@
             "authors": [
                 {
                     "name": "Chris Boulton",
-                    "homepage": "http://github.com/chrisboulton",
-                    "role": "Original developer"
+                    "homepage": "http://github.com/chrisboulton"
                 }
             ],
             "description": "A comprehensive library for generating differences between two hashable objects (strings or arrays).",
